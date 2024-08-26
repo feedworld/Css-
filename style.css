@@ -1,0 +1,14 @@
+body{
+  font-family: roboto;
+}
+
+.head .navbar ul{
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.navbar a{
+  text-decoration: none;
+  width: 100px;
+}
