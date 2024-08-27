@@ -1,14 +1,26 @@
 body{
   font-family: roboto;
+  background-color: bisque;
 }
 
-.head .navbar ul{
+.navbar ul{
   display: flex;
   list-style: none;
   justify-content: space-around;
+  background-color: brown;
 }
 
 .navbar a{
   text-decoration: none;
   width: 100px;
+  color: aliceblue;
+}
+
+h1, h2, h3 {
+  color: rgb(155, 24, 24);
+
+}
+
+.about > p, .work {
+  background-color: antiquewhite;
 }
